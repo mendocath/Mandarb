@@ -35,7 +35,7 @@ import discord
  channel2logger.addHandler(handler)
 
 
- description = ''' Test bot for Mendo'''
+ description = ''' Mandarb bot for TV Discord '''
 
  bot = commands.Bot(command_prefix='!', description=description)
  @bot.event
